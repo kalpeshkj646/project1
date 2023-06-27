@@ -5,7 +5,7 @@ The project is based on the billing system of the Supermarket.
 Every function across the billing system, including administrator login to customer checkout with receipt, is carried out smoothly with the proper explanation at the terminal.
 
 The project concept is taken entirely from the Simplilearn youtube channel.
-This code can be used as the source code for that video.
+This repo can be used as the source code for that video.
 Video link where the complete project is explained: 
 https://youtu.be/xFwwN4lGG0o
 
